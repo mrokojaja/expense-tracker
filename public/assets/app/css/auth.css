@@ -1,0 +1,9 @@
+body {
+  overflow: hidden;
+}
+body .auth-page {
+  display: flex;
+  width: 100dvw;
+  height: 100dvh;
+  position: relative;
+}/*# sourceMappingURL=auth.css.map */
